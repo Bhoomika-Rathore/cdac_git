@@ -6,6 +6,7 @@ int main() {
   	// Read two numbers from the user
     printf("Enter two integers: ");
     scanf("%d %d", &a, &b);
+    printf("You entered: %d and %d\n", a, b);
 
     // Calculate the addition of a and b
     // using '+' operator
